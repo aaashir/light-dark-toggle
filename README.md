@@ -1,3 +1,5 @@
 ## A simple pure Vanilla Javascript Light / Dark theme toggle.
 
-### Feel free to clone or fork this repo.
+### [SEE DEMO](https://aaashir.github.io/light-dark-toggle/)
+
+###### Feel free to clone or fork this repo.
